@@ -1,9 +1,9 @@
 # discordbot
  
-<h1>Bot para Discord feito em Javascritp, discord.js.</h1>
+####Bot para Discord feito em Javascritp, discord.js.
 
-<h2>Comandos(em andamento).</h1>
-<h3>Prefixo: "!"</h3>
+#####Comandos(em andamento).
+######Prefixo: "!"
 - ajuda
 - opgg
 - tft
