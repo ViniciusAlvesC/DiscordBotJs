@@ -22,12 +22,16 @@ module.exports = {
 				value: 'Link úteis TFT.',
 			},
 			{
-				name: '!stream',
-				value: 'Link compartilhamento de tela.',
-			},
-			{
 				name: '!sonic',
 				value: 'Shitpost Sonic',
+			},
+			{
+				name: '!najinha + frase',
+				value: 'Shitpost Naja',
+			},
+			{
+				name: '!vandaum + frase',
+				value: 'Shitpost Vandaum',
 			},
 		],
 		image: {
